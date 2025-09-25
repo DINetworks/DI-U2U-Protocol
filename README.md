@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://dinetwork.xyz">
-        <img alt="logo" src="https://github.com/DINetworks/DI-U2U-Protocol/blob/main/IU2U-banner.png" style="width: 100%;">
+        <img alt="logo" src="https://github.com/DINetworks/DI-U2U-Protocol/blob/main/IU2U-Banner.png" style="width: 100%;">
     </a>
 </div>
 

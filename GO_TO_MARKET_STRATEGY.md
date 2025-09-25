@@ -1,7 +1,7 @@
 # IU2U Protocol - Go-to-Market Strategy
 
 <div align="center">
-    <img alt="IU2U GTM Strategy" src="https://github.com/DINetworks/DI-U2U-Protocol/blob/main/IU2U-banner.png" style="width: 100%;">
+    <img alt="IU2U GTM Strategy" src="https://github.com/DINetworks/DI-U2U-Protocol/blob/main/IU2U-Banner.png" style="width: 100%;">
 </div>
 
 ## 🎯 Executive Summary
