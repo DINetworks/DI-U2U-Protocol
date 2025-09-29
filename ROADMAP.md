@@ -40,14 +40,14 @@ gantt
     section Performance
     Gas Optimization         :2025-10-01, 2025-10-31
     Transaction Speed Boost  :2025-10-15, 2025-11-15
-    DEX Router Expansion     :2025-11-01, 2025-11-30
+    DEX Router Expansion     :2025-11-01, 2025-12-30
     section Features
-    Advanced MetaTx Features :2025-10-01, 2025-11-15
-    Cross-Chain Swaps UI    :2025-10-15, 2025-12-01
-    Mobile SDK Release       :2025-11-15, 2025-12-15
+    Advanced MetaTx Features :2025-10-01, 2025-11-30
+    Cross-Chain Swaps UI    :2025-10-15, 2025-12-30
+    Mobile SDK Release       :2025-11-15, 2025-12-30
     section Community
-    Documentation Updates    :2025-10-01, 2025-12-31
-    Community Incentives     :2025-11-01, 2025-12-31
+    Documentation Updates    :2025-10-01, 2025-12-30
+    Community Incentives     :2025-11-01, 2025-12-30
 ```
 
 ### 🚀 Key Deliverables
@@ -103,15 +103,15 @@ gantt
     title Phase 4: Ecosystem Expansion (Q2-Q3 2026)
     dateFormat YYYY-MM-DD
     section Expansion
-    Solana Integration       :2026-03-01, 2026-04-30
+    Solana Integration       :2026-04-01, 2026-04-30
     Cosmos Ecosystem         :2026-04-01, 2026-05-31
-    Additional EVM Chains     :2026-03-15, 2026-06-15
+    Additional EVM Chains     :2026-04-15, 2026-06-15
     section Partnerships
-    Major DEX Partnerships   :2026-03-01, 2026-06-30
+    Major DEX Partnerships   :2026-04-01, 2026-06-30
     CeFi Exchange Integrations:2026-04-01, 2026-07-31
     Institutional Adoption    :2026-05-01, 2026-08-31
     section Innovation
-    Advanced Features        :2026-03-01, 2026-08-31
+    Advanced Features        :2026-04-01, 2026-08-31
     Layer 2 Optimizations    :2026-04-01, 2026-07-31
     Cross-Chain NFTs         :2026-05-01, 2026-08-31
 ```
