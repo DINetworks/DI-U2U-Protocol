@@ -366,14 +366,14 @@ await iu2u.callContract(
 ### Mainnet Deployments
 | Network | Chain ID | IU2U Gateway | MetaTx Gateway | Aggregator |
 |---------|----------|--------------|----------------|------------|
-| U2U | 39 | `0x...` | `0x...` | `0x...` |
-| Ethereum | 1 | `0x...` | `0x...` | `0x...` |
-| BSC | 56 | `0x...` | `0x...` | `0x...` |
-| Polygon | 137 | `0x...` | `0x...` | `0x...` |
-| Avalanche | 43114 | `0x...` | `0x...` | `0x...` |
-| Arbitrum | 42161 | `0x...` | `0x...` | `0x...` |
-| Optimism | 10 | `0x...` | `0x...` | `0x...` |
-| Base | 8453 | `0x...` | `0x...` | `0x...` |
+| U2U | 39 | `0x560d354E9f690f9749594840120B4b5903c20E07` | `0xbee9591415128F7d52279C8df327614d8fD8a9b2` | `0x...` |
+| Ethereum | 1 | `0x...` | `0xbee9591415128F7d52279C8df327614d8fD8a9b2` | `0x...` |
+| BSC | 56 | `0xe4A31447871c39eD854279acCEAeB023e79dDCC5` | `0xbee9591415128F7d52279C8df327614d8fD8a9b2` | `0x...` |
+| Polygon | 137 | `0xe5DE1F17974B1758703C4bF9a8885F7e24983bb7` | `0xbee9591415128F7d52279C8df327614d8fD8a9b2` | `0x...` |
+| Avalanche | 43114 | `0x2e33C951e4cdDbccB5945C9f32095FccD1171259` | `0xbee9591415128F7d52279C8df327614d8fD8a9b2` | `0x...` |
+| Arbitrum | 42161 | `0x9E5e98FFaD3F779Ed3459631694788E38B822261` | `0xbee9591415128F7d52279C8df327614d8fD8a9b2` | `0x...` |
+| Optimism | 10 | `0xeD93D637b13Ca7f61875BB31386E9a54Bab51C9B` | `0xbee9591415128F7d52279C8df327614d8fD8a9b2` | `0x...` |
+| Base | 8453 | `0x9649a304bD0cd3c4dbe72116199990df06d87329` | `0xbee9591415128F7d52279C8df327614d8fD8a9b2` | `0x...` |
 
 *Note: Actual contract addresses are available in the [IU2U-Contracts repository deployment files](https://github.com/DINetworks/IU2U-Contracts/tree/main/deployments).*
 
@@ -381,9 +381,6 @@ await iu2u.callContract(
 | Network | Chain ID | Status | Purpose |
 |---------|----------|--------|---------|
 | U2U Testnet | 2484 | ✅ Active | Development & Testing |
-| Ethereum Sepolia | 11155111 | ✅ Active | Integration Testing |
-| BSC Testnet | 97 | ✅ Active | Integration Testing |
-| Polygon Mumbai | 80001 | ✅ Active | Integration Testing |
 
 ## �📌 Join Us
 🚀 **IU2U Labs** is actively seeking **developers, researchers, and contributors** passionate about building the future of cross-chain finance. Get involved!
@@ -408,7 +405,7 @@ await iu2u.callContract(
 - **Developer Support:** support@iu2u.com
 
 ### 🔧 Development Tools
-- **Solidity Version:** 0.8.20
+- **Solidity Version:** 0.8.24
 - **Framework:** Hardhat v2.22.19
 - **Security:** OpenZeppelin Contracts v5.2.0
 - **Oracles:** DIA Oracle integration
