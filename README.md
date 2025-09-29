@@ -19,14 +19,14 @@ We are committed to **open-source development** and actively contribute to build
 ### 🌐 Supported Networks & Deployment
 | Network | Chain ID | Status | Gateway Contract |
 |---------|----------|--------|------------------|
-| U2U | 2484 (Testnet) / 39 (Mainnet) | ✅ Native | IU2U Gateway + Vault |
-| Ethereum | 1 | ✅ Live | Gateway + MetaTx |
-| BSC | 56 | ✅ Live | Gateway + MetaTx |
-| Polygon | 137 | ✅ Live | Gateway + MetaTx |
-| Avalanche | 43114 | ✅ Live | Gateway + MetaTx |
-| Arbitrum | 42161 | ✅ Live | Gateway + MetaTx |
-| Optimism | 10 | ✅ Live | Gateway + MetaTx |
-| Base | 8453 | ✅ Live | Gateway + MetaTx |
+| U2U | 2484 (Testnet) / 39 (Mainnet) | ✅ Native | IU2U Gateway + Vault + MetaTx |
+| Ethereum | 1 | ✅ Live | IU2U Gateway + MetaTx |
+| BSC | 56 | ✅ Live | IU2U Gateway + MetaTx |
+| Polygon | 137 | ✅ Live | IU2U Gateway + MetaTx |
+| Avalanche | 43114 | ✅ Live | IU2U Gateway + MetaTx |
+| Arbitrum | 42161 | ✅ Live | IU2U Gateway + MetaTx |
+| Optimism | 10 | ✅ Live | IU2U Gateway + MetaTx |
+| Base | 8453 | ✅ Live | IU2U Gateway + MetaTx |
 
 ### 💻 SDK & Developer Integration
 - **Contract Interfaces** – IIU2UGateway for seamless integration
