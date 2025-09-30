@@ -217,7 +217,7 @@ We are committed to **open-source development** and actively contribute to build
 
 - **Smart Contracts**: [https://github.com/DINetworks/DI-U2U-Contracts](https://github.com/DINetworks/DI-U2U-Contracts)
 - **Frontend**: [https://github.com/DINetworks/DI-U2U](https://github.com/DINetworks/DI-U2U)
-- **MetaTxRelayer**: [https://github.com/DINetworks/MetaTx-Contracts](https://github.com/DINetworks/MetaTx-Relayer)
+- **MetaTxRelayer**: [https://github.com/DINetworks/MetaTx-Relayer](https://github.com/DINetworks/MetaTx-Relayer)
 
 - **GMP Relayer**: [https://github.com/DINetworks/DI-U2U-Contracts/tree/main/relayer](https://github.com/DINetworks/DI-U2U-Contracts/tree/main/relayer)
 
